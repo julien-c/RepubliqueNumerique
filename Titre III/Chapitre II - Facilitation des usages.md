@@ -1,16 +1,20 @@
-chapitre ii
+Chapitre II
 
 Facilitation des usages
 
-Section 1
+Article 40 AA (nouveau)
 
-Recommandé électronique
+Le Gouvernement remet au Parlement, dans les trois mois suivant la promulgation de la présente loi, un rapport sur les mesures nécessaires au développement des échanges dématérialisés, notamment l’identité numérique, la valeur probante des documents numériques ou numérisés et la certification de solutions de coffre-fort électronique.
 
 Article 40 A (nouveau)
 
 I. – À la première phrase de l’article L. 121‑47 du code de la consommation, dans sa rédaction résultant de la loi n° 2014‑344 du 17 mars 2014 relative à la consommation, après le mot : « destination », sont insérés les mots : « des numéros surtaxés ».
 
-II. – Après le mot : « applicable », la fin du IV de l’article 145 de la loi n° 2014‑344 du 17 mars 2014 précitée est ainsi rédigée : « dans un délai de six mois à compter de la publication de l’arrêté qu’il prévoit. »
+II. – Au IV de l’article 145 de la loi n° 2014‑344 du 17 mars 2014 précitée, les mots : « au plus tôt dix-huit mois après l’entrée en vigueur » sont remplacés par les mots : « dans un délai de six mois à compter de la publication ».
+
+Section 1
+
+Recommandé électronique
 
 Article 40
 
@@ -32,11 +36,11 @@ I. – Le livre III du code des postes et des communications électroniques e
 
 « 1° bis (nouveau) Le prestataire informe de manière claire, transparente et loyale les consommateurs sur la reconnaissance en tant que prestataire de service de confiance qualifié pour les services d’envoi recommandé au sens du même règlement ;
 
-« 2° Le procédé électronique utilisé permet d’identifier le prestataire, de désigner l’expéditeur, de garantir l’identité du destinataire et d’établir si la lettre a été remise ou non au destinataire. Le destinataire doit donner son accord exprès pour l’utilisation d’un tel procédé ;
+« 2° Le procédé électronique utilisé permet d’identifier le prestataire, de désigner l’expéditeur, de garantir l’identité du destinataire et d’établir si l’envoi a été remis ou non au destinataire. Le destinataire doit donner son accord exprès pour l’utilisation d’un tel procédé ;
 
 « 3° (nouveau) Le procédé permet d’adresser un avis de réception à l’expéditeur, par voie électronique ou par tout autre dispositif lui permettant de le conserver.
 
-« Un décret en Conseil d’État précise les conditions et les modalités d’application des 1° à 3°, conformément au règlement (UE) n° 910/2014 du 23 juillet 2014 précité.
+« Un décret en Conseil d’État précise les conditions et les modalités d’application des 1° à 3°, conformément au règlement (UE) n° 910/2014 du 23 juillet 2014 précité.
 
 « II. – La responsabilité des prestataires de services d’envoi de recommandé électronique est engagée dans les conditions prévues aux articles 1134 et suivants et 1382 et suivants du code civil à raison des retards, pertes et avaries survenues lors de la prestation, selon des modalités fixées par un décret en Conseil d’État qui détermine des plafonds d’indemnisation.
 
@@ -44,19 +48,20 @@ I. – Le livre III du code des postes et des communications électroniques e
 
 II. – L’article L. 36‑11 du même code est ainsi modifié :
 
-1°  et 2° (Supprimés)
+1° et 2° (Supprimés)
 
 3° Au cinquième alinéa du même I, après les mots : « l’exploitant » sont insérés les mots : « , le prestataire » ;
 
-4° À la première phrase du II, tel qu’il résulte de l’article 19 de la présente loi, après les mots : « fournisseur de services de communication au public en ligne », sont insérés les mots : « ou un prestataire de services d’envoi de recommandé électronique » ;
+4° À la première phrase du II, tel qu’il résulte de l’article 19 de la présente loi, après le mot : « ligne », sont insérés les mots : « ou un prestataire de services d’envoi de recommandé électronique » ;
 
-5° Au quatrième alinéa du III, les mots : « ou de fournir un service de communications électroniques » sont remplacés par les mots : « , de fournir un service de communications électroniques ou une prestation de services d’envoi de recommandé électronique » ;
+5° Au quatrième alinéa du III, après les mots : « service de communications électroniques », sont insérés les mots : « ou une prestation de services d’envoi de recommandé électronique » ;
 
-6° Au VII, après le mot : « opérateur », sont insérés les mots : « , pour un prestataire de services d’envoi de recommandé électronique ».
+6° Au VII, après le mot : « opérateur », sont insérés les mots : « , pour un prestataire de services d’envoi de recommandé électronique ».
 
 Section 2
 
-Paiement par SMS
+Paiement par facturation
+de l’opérateur de communications électroniques
 
 Article 41
 
@@ -68,7 +73,7 @@ I. – Le code monétaire et financier est ainsi modifié :
 
 « 1° D’opérations de paiement effectuées pour l’achat de contenus numériques et de services vocaux, quel que soit le dispositif utilisé pour l’achat ou la consommation de ces contenus numériques, et imputées sur la facture correspondante ;
 
-« 2° D’opérations de paiement exécutées depuis un dispositif électronique ou au moyen de celui‑ci et imputées sur la facture correspondante, dans le cadre de la collecte de dons par les organismes faisant appel public à la générosité au sens de la loi n° 91‑772 du 7 août 1991 relative au congé de représentation en faveur des associations et des mutuelles et au contrôle des comptes des organismes faisant appel à la générosité publique ;
+« 2° D’opérations de paiement exécutées depuis un dispositif électronique ou au moyen de celui‑ci et imputées sur la facture correspondante, dans le cadre de la collecte de dons par les organismes faisant appel public à la générosité au sens de la loi n° 91‑772 du 7 août 1991 relative au congé de représentation en faveur des associations et des mutuelles et au contrôle des comptes des organismes faisant appel à la générosité publique ;
 
 « 3° D’opérations de paiement exécutées depuis un dispositif électronique ou au moyen de celui‑ci et imputées sur la facture correspondante pour l’achat de tickets électroniques.
 
@@ -114,9 +119,9 @@ I. – Le code monétaire et financier est ainsi modifié :
 
 4° Au premier alinéa, à la première phrase du deuxième alinéa et aux trois derniers alinéas du II de l’article L. 521‑3 et aux deux premiers alinéas et aux trois derniers alinéas de l’article L. 525‑6, la référence : « ou au 1° de l’article L. 311‑4 » est supprimée ;
 
-5° (nouveau) Au second alinéa de l’article L. 526‑11, la référence : « ou du 1° de l’article L. 311‑4 » est supprimée.
+5° (nouveau) Au second alinéa de l’article L. 526‑11, la référence : « ou du 1° de l’article L. 311‑4 » est supprimée.
 
-II. – La date d’entrée en vigueur du présent article est fixée par décret conformément aux articles 115 et 116 de la directive 2015/2366/UE du Parlement européen et du Conseil du 25 novembre 2015 concernant les services de paiement dans le marché intérieur et modifiant les directives 2002/65/CE, 2013/36/UE et le règlement (UE) n° 1099/2010 et abrogeant la directive 2007/64/CE.
+II. – La date d’entrée en vigueur du présent article est fixée par décret conformément aux articles 115 et 116 de la directive 2015/2366/UE du Parlement européen et du Conseil du 25 novembre 2015 concernant les services de paiement dans le marché intérieur et modifiant les directives 2002/65/CE, 2013/36/UE et le règlement (UE) n° 1099/2010 et abrogeant la directive 2007/64/CE.
 
 Section 3
 
